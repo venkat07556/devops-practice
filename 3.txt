@@ -1,2 +1,6 @@
 this is third one
+<<<<<<< HEAD
 add line two main
+=======
+this is a modification in feature branch
+>>>>>>> feature
